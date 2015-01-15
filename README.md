@@ -2,7 +2,7 @@ SpotifyPuzzles
 ==============
 
 - [Puzzles @ Spotify Labs](https://labs.spotify.com/puzzles/)   
-    1\. Cat vs. Dog ([catvsdog](src/catvsdog.cpp))
+    1\. Cat vs. Dog ([catvsdog](src/catvsdog.cpp))  
     2\. Zipf’s Song ([zipfsong](src/zipfsong.cpp))  
     3\. Reversed Binary Numbers ([reversebinary](src/reversebinary.cpp))
 - [Spotify Programming Challenge 2011](https://d2us6zencw9qvn.cloudfront.net/wp/u/1.-Spotify-Programming-Challenge.pdf)    
